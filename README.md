@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 ![](image/resim.png)
 
 ## Installation
-***
+
 
 Öncelikle projeyi clonelayın. 
 
@@ -12,7 +12,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 
 
 ## Usage
-***
+
 
 Projeyi cloneladıktan sonra Visual Studio Code progrmaından açınız.
 
@@ -24,10 +24,10 @@ code .
 ```
 
 ## Contributing
-***
+
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-***
+
 [MIT](https://choosealicense.com/licenses/mit/)
